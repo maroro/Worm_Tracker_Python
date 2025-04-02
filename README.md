@@ -18,3 +18,4 @@ Status
   - Improving detection accuracy and noise filtering
   - Adding data export and session management features
   - Improve the way in which modular components are integrated.
+  - add dteailed instructions for python lybrary setup as pymmcore-plus version needs to macth Micro-Manager version.
